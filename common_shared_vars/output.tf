@@ -1,3 +1,3 @@
-output "vm_prefix"{
+output "vm_prefix" {
     value = "sample-tf-vm"
 }
